@@ -49,7 +49,7 @@ Ter o Python 3 instalado na máquina.
 
 ### 2. Clonar o repositório
 ```bash
-git clone https://github.com/SEU_USUARIO/automacao-processos-python.git
+git clone https://github.com/David-Axe/automacao-processos-python.git
 cd automacao-processos-python
 ```
 
